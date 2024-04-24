@@ -31,7 +31,7 @@
 </html>
 </nav>
 <center><h1>WELCOME TO LIBRARIES </h1>
-<img src="d:\SEMESTER 6\PENGEMBANGAN WEB\KODING\images.jfif" style="width:1340px;height:300px;" align="middle">
+<img src="d:\SEMESTER 6\PENGEMBANGAN WEB\KODING\brbs-e.jpg" style="width:1340px;height:300px;" align="middle">
 <hr></hr>
 <center><table border="l">
 <th><h3 style="color:rgb(226, 207, 33)"> About this Website </h3></th>
